@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POK_ZAD4", "POK_ZAD4.csproj", "{C60B082C-414A-4312-9CB2-8F8B258E89DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60B082C-414A-4312-9CB2-8F8B258E89DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60B082C-414A-4312-9CB2-8F8B258E89DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60B082C-414A-4312-9CB2-8F8B258E89DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60B082C-414A-4312-9CB2-8F8B258E89DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2BC8642-9B06-473D-B041-F6E33629495F}
+	EndGlobalSection
+EndGlobal
